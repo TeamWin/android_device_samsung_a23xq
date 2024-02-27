@@ -45,7 +45,7 @@ This device tree was tested and is fully compatible with [minimal-manifest-twrp]
 2. In the root folder of the fetched repo, clone the device tree:
 
 ```bash
-git clone https://github.com/edward0181/android_device_samsung_a23xq -b android-12.1 device/samsung/a23xq
+git clone https://github.com/TeamWin/android_device_samsung_a23xq.git -b android-12.1 device/samsung/a23xq
 ```
 
 3. To build:
@@ -66,7 +66,7 @@ For their work on A52 5G, which this tree is heavily build on.
 
 ```
 #
-# Copyright (C) 2022 The TWRP Open Source Project
+# Copyright (C) 2023 The TWRP Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
