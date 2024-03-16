@@ -16,6 +16,23 @@
       "message": "Could you review // approve changes",
       "revId": "50ed992fab5ee2624ee5108c2033b07445bbbebc",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7bc7f2c_2caeb3cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2024-03-16T23:34:08Z",
+      "side": 1,
+      "message": "Sorry for the delay. You should be able to merge this change in now.",
+      "revId": "50ed992fab5ee2624ee5108c2033b07445bbbebc",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
